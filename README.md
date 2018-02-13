@@ -1,3 +1,7 @@
+#### CSS
+Bookmarks for useful CSS resources.
+Список ссылко на полезные ресурсы посвещенные CSS
+
 ##### CSS Next
 https://tylergaw.com/articles/sass-to-postcss/
 https://github.com/mihhail-lapushkin/react-scripts-x
